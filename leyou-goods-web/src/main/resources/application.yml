@@ -1,0 +1,16 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: goods-web
+  thymeleaf:
+    cache: false
+  main:
+    allow-bean-definition-overriding: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    instance:
+      lease-renewal-interval-in-seconds: 5 # 5秒钟发送一次心跳
+      lease-expiration-duration-in-seconds: 10 # 10秒不发送就过期

@@ -1,0 +1,22 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: leyou-search-service
+  main:
+    allow-bean-definition-overriding: true
+  jackson:
+    default-property-inclusion: non_null
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 192.168.187.10:9300
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    registry-fetch-interval-seconds: 10
+    instance:
+      lease-expiration-duration-in-seconds: 10
+      lease-renewal-interval-in-seconds: 5
+
