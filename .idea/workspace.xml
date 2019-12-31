@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d1ff9f5-f2b3-44b1-9c43-13664c04c1d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/utils/JsonUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -273,6 +272,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
@@ -280,10 +280,6 @@
       <change afterPath="$PROJECT_DIR$/leyou-common/leyou-common.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-common/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/PageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/NumberUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-common/target/classes/META-INF/leyou-common.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-common/target/classes/com/leyou/common/PageResult.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-common/target/test-classes/com/zmq/leyou/LeyouApplicationTests.class" afterDir="false" />
@@ -304,8 +300,6 @@
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/client/GoodsClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/client/SpecificationClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/listener/GoodsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/service/GoodsHtmlService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/service/GoodsService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
@@ -409,7 +403,6 @@
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/client/CategoryClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/client/GoodsClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/client/SpecificationClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/listener/GoodsListener.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/Goods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/pojo/SearchResult.java" afterDir="false" />
@@ -431,12 +424,6 @@
       <change afterPath="$PROJECT_DIR$/leyou-search/target/classes/com/leyou/search/service/SearchService$2.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/target/classes/com/leyou/search/service/SearchService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-search/target/test-classes/com/leyou/elasticsearch/test/ElasticsearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/src/main/java/com/leyou/LeyouSmsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/src/main/java/com/leyou/listener/SmsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/src/main/java/com/leyou/sms/config/SmsProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/src/main/java/com/leyou/sms/utils/SmsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-sms/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-upload/leyou-upload.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-upload/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/LeyouUploadApplication.java" afterDir="false" />
@@ -455,62 +442,12 @@
       <change afterPath="$PROJECT_DIR$/leyou-upload/target/classes/com/leyou/upload/service/UploadService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-upload/target/classes/com/leyou/upload/service/impl/UploadServiceImpl.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou-upload/target/test-classes/com/leyou/upload/test/FastDFSTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/LeyouUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/utils/CodecUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/test/java/com/leyou/user/test/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-user/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leyou.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/zmq/leyou/LeyouApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/controller/EntityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/controller/EntityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateBaseStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateBaseStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivateEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/entity/CasePrivatePhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/service/EntityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/service/EntityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/service/impl/EntityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/main/java/com/qianj/zhaoq/caseEvent/service/impl/EntityServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kg-caseEvent/src/test/java/com/qianj/zhaoq/caseEvent/CaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kg-caseEvent/src/test/java/com/qianj/zhaoq/caseEvent/CaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/leyou-goods-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/leyou-goods-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/target/classes/com/leyou/goods/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/target/classes/com/leyou/goods/controller/GoodsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-goods-web/target/classes/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/target/classes/templates/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/leyou-item-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/leyou-item-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/impl/GoodsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/impl/GoodsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/impl/GoodsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/leyou-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/leyou-search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/user/controller/SearchController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-search/target/classes/com/leyou/search/service/SearchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/target/classes/com/leyou/search/service/SearchService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -783,7 +720,7 @@
       <workItem from="1577537276807" duration="20402000" />
       <workItem from="1577691374275" duration="110000" />
       <workItem from="1577706995291" duration="6373000" />
-      <workItem from="1577755131735" duration="12379000" />
+      <workItem from="1577755131735" duration="13072000" />
     </task>
     <task id="LOCAL-00001" summary="乐优商城项目第一次提交">
       <created>1577538385366</created>
@@ -799,7 +736,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577539379174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加登录注册代码">
+      <created>1577780798639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577780798639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -808,7 +752,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="666" />
     <MESSAGE value="乐优商城项目第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="乐优商城项目第一次提交" />
+    <MESSAGE value="增加登录注册代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加登录注册代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="178" key="#Auto_Import" timestamp="1577713043797">
@@ -839,64 +784,66 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="960" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1577774543505" />
-    <state x="436" y="110" key="CommitChangelistDialog2" timestamp="1577601035152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="581" y="110" key="CommitChangelistDialog2" timestamp="1577781424120">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="436" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577601035152" />
+    <state x="581" y="110" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1577781424120" />
     <state x="710" y="309" key="FileChooserDialogImpl" timestamp="1577713721666">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="533" y="309" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577538181064" />
     <state x="710" y="309" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1577713721666" />
-    <state width="2075" height="283" key="GridCell.Tab.0.bottom" timestamp="1577777710326">
+    <state width="2075" height="283" key="GridCell.Tab.0.bottom" timestamp="1577781358105">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710326" />
-    <state width="2075" height="283" key="GridCell.Tab.0.center" timestamp="1577777710326">
+    <state width="2075" height="283" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358105" />
+    <state width="2075" height="283" key="GridCell.Tab.0.center" timestamp="1577781358103">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710326" />
-    <state width="2075" height="283" key="GridCell.Tab.0.left" timestamp="1577777710326">
+    <state width="2075" height="283" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358103" />
+    <state width="2075" height="283" key="GridCell.Tab.0.left" timestamp="1577781358102">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710326" />
-    <state width="2075" height="283" key="GridCell.Tab.0.right" timestamp="1577777710326">
+    <state width="2075" height="283" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358102" />
+    <state width="2075" height="283" key="GridCell.Tab.0.right" timestamp="1577781358104">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710326" />
-    <state width="2075" height="283" key="GridCell.Tab.1.bottom" timestamp="1577777710327">
+    <state width="2075" height="283" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358104" />
+    <state width="2075" height="283" key="GridCell.Tab.1.bottom" timestamp="1577781358105">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710327" />
-    <state width="2075" height="283" key="GridCell.Tab.1.center" timestamp="1577777710327">
+    <state width="2075" height="283" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358105" />
+    <state width="2075" height="283" key="GridCell.Tab.1.center" timestamp="1577781358105">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710327" />
-    <state width="2075" height="283" key="GridCell.Tab.1.left" timestamp="1577777710326">
+    <state width="2075" height="283" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358105" />
+    <state width="2075" height="283" key="GridCell.Tab.1.left" timestamp="1577781358105">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710326" />
-    <state width="2075" height="283" key="GridCell.Tab.1.right" timestamp="1577777710327">
+    <state width="2075" height="283" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358105" />
+    <state width="2075" height="283" key="GridCell.Tab.1.right" timestamp="1577781358105">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1541" height="207" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577609909636" />
-    <state width="2075" height="283" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577777710327" />
+    <state width="2075" height="283" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577781358105" />
     <state x="397" y="196" key="SettingsEditor" timestamp="1577712354611">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="298" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577537681732" />
     <state x="397" y="196" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1577712354611" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1577539661284">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="736" y="241" key="Vcs.Push.Dialog.v2" timestamp="1577780803623">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577539661284" />
+    <state x="736" y="241" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1577780803623" />
     <state x="1023" y="297" width="897" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577597455605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
