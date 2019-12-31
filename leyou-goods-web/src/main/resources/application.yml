@@ -7,6 +7,14 @@ spring:
     cache: false
   main:
     allow-bean-definition-overriding: true
+  rabbitmq:
+    host: 192.168.187.10
+    port: 5672
+    virtual-host: /leyou
+    username: leyou
+    password: 1234
+    template:
+      exchange: leyou.item.exchange
 eureka:
   client:
     service-url:

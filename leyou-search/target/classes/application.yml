@@ -11,6 +11,14 @@ spring:
     elasticsearch:
       cluster-name: elasticsearch
       cluster-nodes: 192.168.187.10:9300
+  rabbitmq:
+    host: 192.168.187.10
+    port: 5672
+    virtual-host: /leyou
+    username: leyou
+    password: 1234
+    template:
+      exchange: leyou.item.exchange
 eureka:
   client:
     service-url:

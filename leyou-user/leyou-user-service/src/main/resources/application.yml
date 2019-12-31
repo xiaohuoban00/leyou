@@ -1,0 +1,25 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: leyou-user-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/leyou?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    username: root
+    password: 1234
+  redis:
+    host: 192.168.187.10
+  rabbitmq:
+    host: 192.168.187.10
+    username: leyou
+    password: 1234
+    virtual-host: /leyou
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 15
+mybatis:
+  type-aliases-package: com.leyou.user.pojo

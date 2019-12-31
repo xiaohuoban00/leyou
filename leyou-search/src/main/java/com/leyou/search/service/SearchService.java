@@ -185,4 +185,14 @@ public class SearchService {
             return map;
         }).collect(Collectors.toList());
     }
+
+    public void save(Long id) throws JsonProcessingException {
+        Spu spu = goodsClient.querySpuById(id);
+        Goods goods = buildGoods(spu);
+        goodsRepository.save(goods);
+    }
+
+    public void delete(Long id) {
+        goodsRepository.deleteById(id);
+    }
 }

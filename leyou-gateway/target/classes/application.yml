@@ -13,3 +13,4 @@ zuul:
   routes:
     leyou-item-service: /item/**
     leyou-search-service: /search/**
+    leyou-user-service: /user/**

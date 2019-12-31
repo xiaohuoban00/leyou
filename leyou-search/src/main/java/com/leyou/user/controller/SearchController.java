@@ -1,4 +1,4 @@
-package com.leyou.controller;
+package com.leyou.user.controller;
 
 import com.leyou.common.PageResult;
 import com.leyou.search.pojo.Goods;
