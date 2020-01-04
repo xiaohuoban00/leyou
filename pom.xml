@@ -13,6 +13,11 @@
         <module>leyou-goods-web</module>
         <module>leyou-user</module>
         <module>leyou-sms</module>
+        <module>leyou-auto</module>
+        <module>leyou-auth-service</module>
+        <module>leyou-auth-common</module>
+        <module>leyou-auth</module>
+        <module>leyou-auth-common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

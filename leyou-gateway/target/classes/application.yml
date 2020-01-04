@@ -14,3 +14,18 @@ zuul:
     leyou-item-service: /item/**
     leyou-search-service: /search/**
     leyou-user-service: /user/**
+    leyou-auth-service: /auth/**
+  add-host-header: true
+  sensitive-headers: #覆盖默认敏感头信息
+leyou:
+  jwt:
+    pubKeyPath: D:\\rsa\\rsa.pub # 公钥地址
+    cookieName: LY_TOKEN
+  filter:
+    allowPaths:
+      - /api/auth
+      - /api/search
+      - /api/user/register
+      - /api/user/check
+      - /api/user/code
+      - /api/item

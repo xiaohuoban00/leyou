@@ -2,7 +2,6 @@ package com.leyou.user.controller;
 
 import com.leyou.user.pojo.User;
 import com.leyou.user.service.UserService;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

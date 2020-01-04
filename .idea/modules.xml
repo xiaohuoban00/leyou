@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/leyou.iml" filepath="$PROJECT_DIR$/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-auth/leyou-auth.iml" filepath="$PROJECT_DIR$/leyou-auth/leyou-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-auth/leyou-auth-common/leyou-auth-common.iml" filepath="$PROJECT_DIR$/leyou-auth/leyou-auth-common/leyou-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/leyou-auth-service.iml" filepath="$PROJECT_DIR$/leyou-auth/leyou-auth-service/leyou-auth-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-common/leyou-common.iml" filepath="$PROJECT_DIR$/leyou-common/leyou-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" filepath="$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-goods-web/leyou-goods-web.iml" filepath="$PROJECT_DIR$/leyou-goods-web/leyou-goods-web.iml" />
